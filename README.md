@@ -1,6 +1,6 @@
 # Kata.StartingTypeScript
 
-**For use**
+**For use**  
 Clone and run npm install cmd
 
 **Setup**
