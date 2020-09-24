@@ -1,8 +1,8 @@
 # Kata.StartingTypeScript
 
-npm install :
+**npm install**
 
-npm install --save-dev typescript jest @types/jest ts-jest 
+`npm install --save-dev typescript jest @types/jest ts-jest `
 
 
 
